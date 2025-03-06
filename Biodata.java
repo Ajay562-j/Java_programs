@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1ec1fb55e7c22e64ac5495d5649087fea276f792
 import java.util.Scanner;
 
 class Biodata 
@@ -27,4 +30,8 @@ class Biodata
         obj.close();
 
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 1ec1fb55e7c22e64ac5495d5649087fea276f792
